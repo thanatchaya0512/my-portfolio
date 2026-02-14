@@ -18,7 +18,7 @@
           class="bg-slate-800/20 border border-slate-700/50 rounded-2xl p-6 md:p-8 hover:border-cyan-400/50 hover:shadow-lg hover:shadow-cyan-500/20 transition-all duration-300">
           <h3 class="text-xl md:text-2xl font-bold text-white mb-3 md:mb-4">Email</h3>
           <p class="text-slate-400 mb-4 md:mb-6 break-all text-sm md:text-base">thanatchaya987@gmail.com</p>
-          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thanatchaya987@gmail.com&su=&body=" target="_blank"
+          <a href="mailto:thanatchaya987@gmail.com"
             rel="noopener noreferrer"
             class="inline-block w-full sm:w-auto px-5 md:px-6 py-2.5 md:py-3 rounded-lg bg-cyan-400 text-slate-950 font-semibold shadow-md hover:bg-cyan-500 hover:scale-105 active:scale-95 transition-all duration-300 cursor-pointer text-sm md:text-base">
             Send Email
@@ -30,7 +30,7 @@
           class="bg-slate-800/20 border border-slate-700/50 rounded-2xl p-6 md:p-8 hover:border-cyan-400/50 hover:shadow-lg hover:shadow-cyan-500/20 transition-all duration-300">
           <h3 class="text-xl md:text-2xl font-bold text-white mb-3 md:mb-4">Phone</h3>
           <p class="text-slate-400 mb-4 md:mb-6 text-sm md:text-base">094-804-2979</p>
-          <a href="tel:+66948042979"
+          <a href="tel:+66948042979">
             class="inline-block w-full sm:w-auto px-5 md:px-6 py-2.5 md:py-3 rounded-lg bg-cyan-400 text-slate-950 font-semibold shadow-md hover:bg-cyan-500 hover:scale-105 active:scale-95 transition-all duration-300 cursor-pointer text-sm md:text-base">
             Call Now
           </a>
@@ -41,7 +41,7 @@
           class="bg-slate-800/20 border border-slate-700/50 rounded-2xl p-6 md:p-8 hover:border-cyan-400/50 hover:shadow-lg hover:shadow-cyan-500/20 transition-all duration-300 sm:col-span-2 md:col-span-1">
           <h3 class="text-xl md:text-2xl font-bold text-white mb-3 md:mb-4">Line</h3>
           <p class="text-slate-400 mb-4 md:mb-6 text-sm md:text-base">tnyb5</p>
-          <a href="https://line.me/ti/p/tnyb5" target="_blank" rel="noopener noreferrer"
+          <a href="https://line.me/R/ti/p/~tnyb5" target="_blank" rel="noopener noreferrer"
             class="inline-block w-full sm:w-auto px-5 md:px-6 py-2.5 md:py-3 rounded-lg bg-cyan-400 text-slate-950 font-semibold shadow-md hover:bg-cyan-500 hover:scale-105 active:scale-95 transition-all duration-300 cursor-pointer text-sm md:text-base">
             Add Line
           </a>
