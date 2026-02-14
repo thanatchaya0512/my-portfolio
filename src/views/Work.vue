@@ -31,7 +31,7 @@
             <div class="overflow-hidden rounded-xl border border-slate-700/40 shadow-2xl group">
               <div class="absolute inset-0 bg-cyan-900/20 group-hover:bg-transparent transition duration-500"></div>
               <img
-                :src="forwardImages[0]"
+                src="/src/assets/modal-noti.jfif"
                 alt="Forward Notification"
                 class="w-full object-cover transition duration-700 group-hover:scale-105"
               />
@@ -168,9 +168,7 @@
 </template>
 
 <script setup>
-const forwardImages = [
-  '/src/assets/modal-noti.jfif'
-]
+
 </script>
 
 <style scoped>
