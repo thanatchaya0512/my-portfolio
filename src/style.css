@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+/* ========================= GLOBAL THEME (DARK ONLY) ========================= */
+html,
+body {
+  background-color: #020617;
+  /* slate-950 */
+  color: #e2e8f0;
+  /* slate-200 */
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+/* Font */
+body {
+  font-family: 'Kanit', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ========================= FORCE DARK BACKGROUND ========================= */
+#app {
+  min-height: 100vh;
+  background-color: #020617;
+}
