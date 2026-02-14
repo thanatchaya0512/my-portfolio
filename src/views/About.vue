@@ -85,11 +85,11 @@
             </div>
 
             <div class="flex flex-wrap gap-4 pt-4">
-              <a href="/public/Thanatchaya-Resume.pdf" target="_blank"
+              <a href="Thanatchaya-Resume.pdf" target="_blank"
                 class="px-8 py-3 bg-cyan-500 text-slate-900 font-bold rounded-lg hover:bg-cyan-400 transition-all duration-300 shadow-[0_5px_15px_rgba(6,182,212,0.2)]">
                 VIEW RESUME
               </a>
-              <a href="/public/transcript.pdf" target="_blank"
+              <a href="transcript.pdf" target="_blank"
                 class="px-8 py-3 border border-slate-700 text-slate-300 font-bold rounded-lg hover:border-cyan-400 hover:text-cyan-400 transition-all duration-300">
                 TRANSCRIPT
               </a>
