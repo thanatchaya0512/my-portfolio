@@ -85,7 +85,7 @@
                    text-[#171616] font-semibold
                    transition-all duration-300
                    hover:scale-105 hover:shadow-xl hover:shadow-cyan-500/30">
-            View My Work
+              View Projects
             <span class="inline-block ml-2 transition-transform group-hover:translate-x-1">→</span>
           </a>
 
